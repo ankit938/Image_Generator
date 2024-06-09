@@ -1,0 +1,361 @@
+.navbar-main-container {
+  color: #fff;
+  cursor: pointer;
+  background-color: #161616;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  padding: 8px 16px;
+  display: flex;
+  box-shadow: 0 10px 10px -10px #dad8d21a;
+
+  & a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  & .left {
+    align-items: center;
+    gap: 24px;
+    display: flex;
+  }
+
+  & .right {
+    background-color: #deb887;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.homepage-main-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.welcome-section {
+  margin: 50px 0;
+}
+
+.welcome-section h1 {
+  margin-bottom: 10px;
+  font-size: 3em;
+}
+
+.welcome-section p {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+}
+
+.cta-button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1.2em;
+}
+
+.cta-button:hover {
+  background-color: #0056b3;
+}
+
+.features-section {
+  margin: 50px 0;
+}
+
+.features-grid {
+  justify-content: center;
+  gap: 20px;
+  display: flex;
+}
+
+.feature-item {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  width: 200px;
+  padding: 20px;
+}
+
+.feature-item h3 {
+  margin-bottom: 10px;
+}
+
+.feature-item p {
+  font-size: 1em;
+}
+
+.homepage-footer {
+  text-align: center;
+  background-color: #f8f9fa;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.social-media-links a {
+  color: #007bff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.social-media-links a:hover {
+  text-decoration: underline;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.image-generator-main-container {
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  display: flex;
+}
+
+.image-search {
+  text-align: center;
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 10px #0000001a;
+}
+
+.image-search img {
+  object-fit: cover;
+  border-radius: 10px;
+  width: 400px;
+  height: 400px;
+  margin-bottom: 20px;
+}
+
+.image-search input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: calc(100% - 20px);
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.image-search button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.image-search button:hover {
+  background-color: #0056b3;
+}
+
+.history-main-container {
+  color: #000;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 24px;
+  padding: 24px 48px;
+  display: flex;
+}
+
+.history-card {
+  box-sizing: border-box;
+  border: 1px solid gray;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 300px;
+  height: 450px;
+  padding: 16px;
+  display: flex;
+  overflow: hidden;
+
+  & p {
+    color: #e0dbdb;
+  }
+}
+
+.history-card h1 {
+  text-align: center;
+  margin: 10px 0;
+  font-size: 1.5em;
+}
+
+.history-card h3 {
+  text-align: center;
+  margin: 5px 0;
+  font-size: 1.2em;
+}
+
+.history-card h6 {
+  text-align: center;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  margin: 5px 0;
+  font-size: .9em;
+  display: -webkit-box;
+  overflow: hidden;
+}
+
+.search-container {
+  justify-content: center;
+  width: 100%;
+  margin: 20px 0;
+  display: flex;
+}
+
+.history-card img {
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 200px;
+}
+
+.search-box-input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  transition: all .3s;
+}
+
+.search-box-input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px #007bff80;
+}
+
+.help-main-container {
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.faq-section, .how-to-section, .contact-section {
+  margin-bottom: 40px;
+}
+
+.faq-item, .how-to-item {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 15px;
+}
+
+.faq-item h3, .how-to-item h3 {
+  margin-top: 0;
+}
+
+.contact-section p {
+  margin: 5px 0;
+  font-size: 1em;
+}
+
+.signup-container {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+.signup-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  display: block;
+}
+
+.form-group input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+}
+
+.signup-button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.signup-button:hover {
+  background-color: #0056b3;
+}
+
+.login-container {
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  display: flex;
+}
+
+.login-form {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+.login-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login-form input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.login-button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
