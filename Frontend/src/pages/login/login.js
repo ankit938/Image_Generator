@@ -14,7 +14,7 @@ const Login = () => {
       return;
     }
     try {
-      const res = await fetch(`https://img-generator-edna.onrender.com/api/v1/auth/login`, {
+      const res = await fetch(`https://image-generator-oq90.onrender.com/api/v1/auth/login`, {
         headers: {
           "Content-Type": "application/json",
         },
