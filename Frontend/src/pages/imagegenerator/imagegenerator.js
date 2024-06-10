@@ -18,7 +18,7 @@ const ImageGenerator = (props) => {
   const handleClick = async () => {
     cValue.setUserPoints(cValue.userPoints-1);
     try{
-    const res = await fetch(`https://img-generator-edna.onrender.com/api/v1/images`, {
+    const res = await fetch(`https://image-generator-oq90.onrender.com/api/v1/images`, {
       method: "POST",
       body: JSON.stringify({
           searchText: searchText,

@@ -12,7 +12,7 @@ const Signup = () => {
       return;
     }
 
-    const res = await fetch('https://img-generator-edna.onrender.com/api/v1/auth/signup', {
+    const res = await fetch('https://image-generator-oq90.onrender.com/api/v1/auth/signup', {
       headers: {
         "Content-Type": "application/json",
       },

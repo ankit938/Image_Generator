@@ -38,8 +38,8 @@ const HelpPage = () => {
                 <section className="contact-section">
                     <h2>Contact Support</h2>
                     <p>If you need further assistance, please contact us.</p>
-                    <p>Email: abhishekatiyar@gmail.com</p>
-                    <p>contact: +91 9839326394</p>
+                    <p>Email: ankitmishra1022002@gmail.com</p>
+                    <p>contact: +91 9026628938</p>
                 </section>
             </div>
         </div>

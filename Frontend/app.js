@@ -1,15 +1,15 @@
 import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider, Navigate } from "react-router-dom";
-import Homepage from "./src/pages/homepage/homepage.jsx";
-import ImageGenerator from "./src/pages/imagegenerator/imagegenerator.jsx";
-import History from "./src/pages/historypage/historypage.jsx";
-import ContactUs from "./src/pages/contactpage/contactpage.jsx";
-import Help from "./src/pages/helppage/helppage.jsx";
-import SignUp from "./src/pages/signuppage/signuppage.jsx";
-import HistoryInformationPage from "./src/pages/historyInformation/historyInformation.jsx";
-import PointsContext from "./src/context/pointsContext.jsx";
-import Login from "./src/pages/login/login.jsx";
+import Homepage from "./src/pages/homepage/homepage.js";
+import ImageGenerator from "./src/pages/imagegenerator/imagegenerator.js";
+import History from "./src/pages/historypage/historypage.js";
+import ContactUs from "./src/pages/contactpage/contactpage.js";
+import Help from "./src/pages/helppage/helppage.js";
+import SignUp from "./src/pages/signuppage/signuppage.js";
+import HistoryInformationPage from "./src/pages/historyInformation/historyInformation.js";
+import PointsContext from "./src/context/pointsContext.js";
+import Login from "./src/pages/login/login.js";
 
 const parent = document.getElementById('root');
 const root = ReactDOM.createRoot(parent);
