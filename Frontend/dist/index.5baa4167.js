@@ -3091,7 +3091,7 @@ const App = ()=>{
         columnNumber: 5
     }, undefined);
 };
-_s(App, "KlBaUn3TdjKi3KSHn0XpZey0IIw=");
+_s(App, "sFTzGxAnuPt9Z+4HFyD47DN9T1o=");
 _c = App;
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(App, {}, void 0, false, {
     fileName: "app.js",
@@ -34087,8 +34087,6 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
 var _navbarJs = require("../common/navbar/navbar.js");
 var _navbarJsDefault = parcelHelpers.interopDefault(_navbarJs);
 var _homepageCss = require("./homepage.css");
-var _footerJs = require("../common/footer/footer.js");
-var _footerJsDefault = parcelHelpers.interopDefault(_footerJs);
 var _reactRouterDom = require("react-router-dom");
 const Homepage = (props)=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34097,7 +34095,7 @@ const Homepage = (props)=>{
                 page: "home"
             }, void 0, false, {
                 fileName: "src/pages/homepage/homepage.js",
-                lineNumber: 11,
+                lineNumber: 10,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34110,14 +34108,14 @@ const Homepage = (props)=>{
                                 children: "Welcome to ImageGen"
                             }, void 0, false, {
                                 fileName: "src/pages/homepage/homepage.js",
-                                lineNumber: 15,
+                                lineNumber: 14,
                                 columnNumber: 21
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                 children: "Generate stunning images with our AI-powered image generator."
                             }, void 0, false, {
                                 fileName: "src/pages/homepage/homepage.js",
-                                lineNumber: 16,
+                                lineNumber: 15,
                                 columnNumber: 21
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34127,18 +34125,18 @@ const Homepage = (props)=>{
                                     children: "Start Generating"
                                 }, void 0, false, {
                                     fileName: "src/pages/homepage/homepage.js",
-                                    lineNumber: 18,
+                                    lineNumber: 17,
                                     columnNumber: 25
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/pages/homepage/homepage.js",
-                                lineNumber: 17,
+                                lineNumber: 16,
                                 columnNumber: 21
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/homepage/homepage.js",
-                        lineNumber: 14,
+                        lineNumber: 13,
                         columnNumber: 17
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34148,7 +34146,7 @@ const Homepage = (props)=>{
                                 children: "Features"
                             }, void 0, false, {
                                 fileName: "src/pages/homepage/homepage.js",
-                                lineNumber: 24,
+                                lineNumber: 23,
                                 columnNumber: 21
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34161,20 +34159,20 @@ const Homepage = (props)=>{
                                                 children: "High Quality"
                                             }, void 0, false, {
                                                 fileName: "src/pages/homepage/homepage.js",
-                                                lineNumber: 28,
+                                                lineNumber: 27,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                 children: "Create high-resolution images in seconds."
                                             }, void 0, false, {
                                                 fileName: "src/pages/homepage/homepage.js",
-                                                lineNumber: 29,
+                                                lineNumber: 28,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/homepage/homepage.js",
-                                        lineNumber: 27,
+                                        lineNumber: 26,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34184,20 +34182,20 @@ const Homepage = (props)=>{
                                                 children: "Customizable"
                                             }, void 0, false, {
                                                 fileName: "src/pages/homepage/homepage.js",
-                                                lineNumber: 32,
+                                                lineNumber: 31,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                 children: "Adjust settings to get the perfect image."
                                             }, void 0, false, {
                                                 fileName: "src/pages/homepage/homepage.js",
-                                                lineNumber: 33,
+                                                lineNumber: 32,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/homepage/homepage.js",
-                                        lineNumber: 31,
+                                        lineNumber: 30,
                                         columnNumber: 25
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34207,49 +34205,44 @@ const Homepage = (props)=>{
                                                 children: "Fast"
                                             }, void 0, false, {
                                                 fileName: "src/pages/homepage/homepage.js",
-                                                lineNumber: 36,
+                                                lineNumber: 35,
                                                 columnNumber: 29
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                 children: "Quickly generate images with our optimized algorithms."
                                             }, void 0, false, {
                                                 fileName: "src/pages/homepage/homepage.js",
-                                                lineNumber: 37,
+                                                lineNumber: 36,
                                                 columnNumber: 29
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/pages/homepage/homepage.js",
-                                        lineNumber: 35,
+                                        lineNumber: 34,
                                         columnNumber: 25
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/homepage/homepage.js",
-                                lineNumber: 25,
+                                lineNumber: 24,
                                 columnNumber: 21
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/homepage/homepage.js",
-                        lineNumber: 23,
+                        lineNumber: 22,
                         columnNumber: 17
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/pages/homepage/homepage.js",
-                lineNumber: 12,
-                columnNumber: 13
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerJsDefault.default), {}, void 0, false, {
-                fileName: "src/pages/homepage/homepage.js",
-                lineNumber: 44,
+                lineNumber: 11,
                 columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/pages/homepage/homepage.js",
-        lineNumber: 9,
+        lineNumber: 8,
         columnNumber: 9
     }, undefined);
 };
@@ -34263,7 +34256,7 @@ $RefreshReg$(_c, "Homepage");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../common/navbar/navbar.js":"bZsz4","./homepage.css":"ceyL1","../common/footer/footer.js":"lH5aO","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"bZsz4":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../common/navbar/navbar.js":"bZsz4","./homepage.css":"ceyL1","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"bZsz4":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$fdf1 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -34301,7 +34294,7 @@ const Navbar = (props)=>{
                         children: "Home"
                     }, void 0, false, {
                         fileName: "src/pages/common/navbar/navbar.js",
-                        lineNumber: 21,
+                        lineNumber: 20,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34310,7 +34303,7 @@ const Navbar = (props)=>{
                         children: "ImageGenerator"
                     }, void 0, false, {
                         fileName: "src/pages/common/navbar/navbar.js",
-                        lineNumber: 24,
+                        lineNumber: 23,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34319,7 +34312,7 @@ const Navbar = (props)=>{
                         children: "History"
                     }, void 0, false, {
                         fileName: "src/pages/common/navbar/navbar.js",
-                        lineNumber: 27,
+                        lineNumber: 26,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34328,7 +34321,7 @@ const Navbar = (props)=>{
                         children: "Contact Us"
                     }, void 0, false, {
                         fileName: "src/pages/common/navbar/navbar.js",
-                        lineNumber: 30,
+                        lineNumber: 29,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34337,7 +34330,7 @@ const Navbar = (props)=>{
                         children: "Help"
                     }, void 0, false, {
                         fileName: "src/pages/common/navbar/navbar.js",
-                        lineNumber: 33,
+                        lineNumber: 32,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34346,7 +34339,7 @@ const Navbar = (props)=>{
                         children: "SignUp"
                     }, void 0, false, {
                         fileName: "src/pages/common/navbar/navbar.js",
-                        lineNumber: 36,
+                        lineNumber: 35,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34355,13 +34348,13 @@ const Navbar = (props)=>{
                         children: "Login"
                     }, void 0, false, {
                         fileName: "src/pages/common/navbar/navbar.js",
-                        lineNumber: 39,
+                        lineNumber: 38,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/pages/common/navbar/navbar.js",
-                lineNumber: 20,
+                lineNumber: 19,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34373,7 +34366,7 @@ const Navbar = (props)=>{
                 children: contextValues.userPoints
             }, void 0, false, {
                 fileName: "src/pages/common/navbar/navbar.js",
-                lineNumber: 44,
+                lineNumber: 43,
                 columnNumber: 6
             }, undefined),
             contextValues.isLoggedIn ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -34381,20 +34374,20 @@ const Navbar = (props)=>{
                 children: "Logout"
             }, void 0, false, {
                 fileName: "src/pages/common/navbar/navbar.js",
-                lineNumber: 48,
+                lineNumber: 47,
                 columnNumber: 17
             }, undefined) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
                 onClick: contextValues.login,
                 children: "Login"
             }, void 0, false, {
                 fileName: "src/pages/common/navbar/navbar.js",
-                lineNumber: 49,
+                lineNumber: 48,
                 columnNumber: 18
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/pages/common/navbar/navbar.js",
-        lineNumber: 19,
+        lineNumber: 18,
         columnNumber: 5
     }, undefined);
 };
@@ -34565,81 +34558,7 @@ function registerExportsForReactRefresh(module1) {
     }
 }
 
-},{"7422ead32dcc1e6b":"786KC"}],"ceyL1":[function() {},{}],"lH5aO":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$c275 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$c275.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _footerCss = require("./Footer.css");
-const Footer = ()=>{
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
-        className: "homepage-footer",
-        children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                children: "Contact us: abhishekatiyarr@gmail.com"
-            }, void 0, false, {
-                fileName: "src/pages/common/footer/footer.js",
-                lineNumber: 7,
-                columnNumber: 17
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "social-media-links",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "#facebook",
-                        children: "Facebook"
-                    }, void 0, false, {
-                        fileName: "src/pages/common/footer/footer.js",
-                        lineNumber: 9,
-                        columnNumber: 21
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "#twitter",
-                        children: "Twitter"
-                    }, void 0, false, {
-                        fileName: "src/pages/common/footer/footer.js",
-                        lineNumber: 10,
-                        columnNumber: 21
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "#instagram",
-                        children: "Instagram"
-                    }, void 0, false, {
-                        fileName: "src/pages/common/footer/footer.js",
-                        lineNumber: 11,
-                        columnNumber: 21
-                    }, undefined)
-                ]
-            }, void 0, true, {
-                fileName: "src/pages/common/footer/footer.js",
-                lineNumber: 8,
-                columnNumber: 17
-            }, undefined)
-        ]
-    }, void 0, true, {
-        fileName: "src/pages/common/footer/footer.js",
-        lineNumber: 6,
-        columnNumber: 5
-    }, undefined);
-};
-_c = Footer;
-exports.default = Footer;
-var _c;
-$RefreshReg$(_c, "Footer");
-
-  $parcel$ReactRefreshHelpers$c275.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Footer.css":"ciMQC","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ciMQC":[function() {},{}],"aI6mQ":[function(require,module,exports) {
+},{"7422ead32dcc1e6b":"786KC"}],"ceyL1":[function() {},{}],"aI6mQ":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$eafe = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -34668,7 +34587,7 @@ const ImageGenerator = (props)=>{
     const handleClick = async ()=>{
         cValue.setUserPoints(cValue.userPoints - 1);
         try {
-            const res = await fetch(`http://localhost:8000/api/v1/images`, {
+            const res = await fetch(`https://image-generator-oq90.onrender.com/api/v1/images`, {
                 method: "POST",
                 body: JSON.stringify({
                     searchText: searchText
@@ -35139,14 +35058,14 @@ const HelpPage = ()=>{
                                 columnNumber: 21
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                children: "Email: abhishekatiyar@gmail.com"
+                                children: "Email: ankitmishra1022002@gmail.com"
                             }, void 0, false, {
                                 fileName: "src/pages/helppage/helppage.js",
                                 lineNumber: 41,
                                 columnNumber: 21
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                children: "contact: +91 9839326394"
+                                children: "contact: +91 9026628938"
                             }, void 0, false, {
                                 fileName: "src/pages/helppage/helppage.js",
                                 lineNumber: 42,
@@ -35206,7 +35125,7 @@ const Signup = ()=>{
             alert("Please enter both email and password");
             return;
         }
-        const res = await fetch("http://localhost:8000/api/v1/auth/signup", {
+        const res = await fetch("https://image-generator-oq90.onrender.com/api/v1/auth/signup", {
             headers: {
                 "Content-Type": "application/json"
             },
@@ -35465,7 +35384,7 @@ const Login = ()=>{
             return;
         }
         try {
-            const res = await fetch(`http://localhost:8000/api/v1/auth/login`, {
+            const res = await fetch(`https://image-generator-oq90.onrender.com/api/v1/auth/login`, {
                 headers: {
                     "Content-Type": "application/json"
                 },
